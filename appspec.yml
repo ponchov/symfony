@@ -4,6 +4,4 @@ os: linux
 files:
   - source: ./
     destination: /var/www/socialfoodie.co
-hooks:
-  AfterInstall:
-    - location: bla.sh
+
